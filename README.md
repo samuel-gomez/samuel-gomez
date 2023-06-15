@@ -9,9 +9,11 @@
 
 - 🔭 I’m currently working on [React Starter Toolkit](https://github.com/samuel-gomez/samuel-gomez.git)
 
+- 👯 I’m looking to collaborate on [React Toolkit AXA](https://github.com/AxaFrance/react-toolkit)
+
 - 👨‍💻 All of my projects are available at [https://github.com/samuel-gomez?tab=repositories](https://github.com/samuel-gomez?tab=repositories)
 
-- 💬 Ask me about **ReactJs, NextJs, CSS, HTML, Accessibilityc**
+- 💬 Ask me about **ReactJs, NextJs, CSS, HTML, Accessibility, NodeJS**
 
 - 📫 How to reach me **contact@samuelgomez.fr**
 
@@ -21,11 +23,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/gsam59" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/gsam59" height="30" width="40" /></a>
+<a href="https://codepen.io/gsam59" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="gsam59" height="30" width="40" /></a>
 <a href="https://twitter.com/gamuez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gamuez" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/samuel-gomez-developpeur-web/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samuel-gomez-developpeur-web/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/samuel-gomez-developpeur-web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel-gomez-developpeur-web" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11483392" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11483392" height="30" width="40" /></a>
 <a href="https://codesandbox.com/samuel-gomez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="samuel-gomez" height="30" width="40" /></a>
+<a href="https://instagram.com/gamuez.art" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gamuez.art" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
