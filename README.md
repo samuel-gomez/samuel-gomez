@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/gamuez" target="blank"><img src="https://img.shields.io/twitter/follow/gamuez?logo=twitter&style=for-the-badge" alt="gamuez" /></a> </p>
 
-- 🔭 I’m currently working on [React Starter Toolkit](https://github.com/samuel-gomez/samuel-gomez.git)
+- 🔭 I’m currently working on [React Starter Toolkit](https://github.com/samuel-gomez/react-starter-vitejs)
 
 - 👯 I’m looking to collaborate on [React Toolkit AXA](https://github.com/AxaFrance/react-toolkit)
 
