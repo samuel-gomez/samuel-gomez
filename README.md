@@ -19,7 +19,8 @@
 
 - 📄 Know about my experiences [https://www.samuelgomez.fr/](https://www.samuelgomez.fr/)
 
-- ⚡ Fun fact **i also like drawing**
+- ⚡ Fun fact **i also like drawing** [https://www.instagram.com/gamuez_art/](https://www.instagram.com/gamuez_art/)
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
